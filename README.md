@@ -1,4 +1,5 @@
-# Reddbot for Telegram 
+# Reddbot - Telegram Reddcoin Tipbot.
+ 
 #### Reddcoin crypto currency tipbot for [Telegram](https://telegram.com)
 
 
